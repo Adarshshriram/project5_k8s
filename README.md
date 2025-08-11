@@ -21,7 +21,7 @@ Deploy and manage applications locally in Kubernetes using **Minikube**, **kubec
 
 ---
 
-## Steps to Run the Project
+Steps to Run the Project
 
  **1. Install Docker**
 ```bash
@@ -78,7 +78,7 @@ kubectl get pods
 kubectl logs <pod-name>
 kubectl describe pod <pod-name>
 
-# minicube installation 
+## minicube installation 
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5a7ee21c-50ef-462d-88ec-306061da9116" />
 
