@@ -46,15 +46,8 @@ Deploy and manage applications locally in Kubernetes using **Minikube**, **kubec
 
 <img width="940" height="300" alt="image" src="https://github.com/user-attachments/assets/4089fe06-6e70-41ca-8d02-dda74be2fbe5" />
 
-## Outcome
 
-By completing this project, you will understand:
-
-Deploying apps in Kubernetes using Minikube.
-Managing deployments and services.
-Scaling and debugging Kubernetes workloads.
-
-Steps to Run the Project
+## Steps to Run the Project
 
  **1. Install Docker**
 ```bash
