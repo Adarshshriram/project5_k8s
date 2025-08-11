@@ -23,7 +23,7 @@ Deploy and manage applications locally in Kubernetes using **Minikube**, **kubec
 
 ## Steps to Run the Project
 
-### **1. Install Docker**
+ **1. Install Docker**
 ```bash
 sudo yum update -y
 sudo yum install -y docker
