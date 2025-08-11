@@ -78,35 +78,6 @@ kubectl get pods
 kubectl logs <pod-name>
 kubectl describe pod <pod-name>
 
-## minicube installation 
-
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5a7ee21c-50ef-462d-88ec-306061da9116" />
-
-# kubectl pods
-
-<img width="940" height="511" alt="image" src="https://github.com/user-attachments/assets/2881632b-248f-476a-9b32-ec8ee16ad597" />
-
-# kubectl logs
-
-<img width="940" height="573" alt="image" src="https://github.com/user-attachments/assets/52da9aa9-fd6c-420a-bc2b-3b89b2a27ef7" />
-
-# kubectl describes
-
-<img width="940" height="554" alt="image" src="https://github.com/user-attachments/assets/9d1ba0b0-7510-4a90-a25f-978ae737ec1b" />
-
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/5f755876-4fda-4275-94c1-acb39f01eb3a" />
-
-# kubectl pods and services
-
-<img width="940" height="300" alt="image" src="https://github.com/user-attachments/assets/4089fe06-6e70-41ca-8d02-dda74be2fbe5" />
-
-## Outcome
-
-By completing this project, you will understand:
-
-Deploying apps in Kubernetes using Minikube.
-Managing deployments and services.
-Scaling and debugging Kubernetes workloads.
 
 
 
